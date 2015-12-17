@@ -1,0 +1,2 @@
+# identification-of-gene-location-from-NCBI-nucleotide-file
+The purpose of this tool is to obtain the gene locations from genbank directly and save it into (.xlsx) format. Interface of IGLNNF is shown in the figure tool1. IGLNNF requires two inputs 1. Accession Number and 2. Filename where extracted gene locations will be store. The output can be seen from the figure out1 and can be obtain by clicking on analyze button. 
